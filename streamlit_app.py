@@ -21,4 +21,4 @@ streamlit.dataframe(fruits_to_show)
 
 
 
-import snoflake.conenctor
+import snowflake.conenctor
